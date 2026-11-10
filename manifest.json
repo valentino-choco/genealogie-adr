@@ -1,0 +1,14 @@
+{
+  "name": "Généalogie",
+  "short_name": "Généalogie",
+  "start_url": "/genealogie-adr/",
+  "scope": "/genealogie-adr/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/genealogie-adr/arbre1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
